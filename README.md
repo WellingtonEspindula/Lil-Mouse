@@ -15,5 +15,5 @@ Cada queijo coletado dá ao jogador 10 pontos, e cada gato derrotado da 50. O ob
 Antes de começar, esse jogo foi desenvolvido em C com bibliotecas que só irão funcionar em Windows. Sabendo isso, certifique-se de instalar a Conio2 no seu computador e na sua IDE de preferência. Durante o desenvolvimento, foi utilizado o CodeBlocks. Além disso, é necessário checar se a libwinmm do MinGW está incluída nas configurações de compilação - biblioteca que fará possível rodar a música no início e fim do jogo.
 
 ## Documentação:
-A documentação do código encontra-se disponível no endereço: https://wellingtonespindula.github.io/Lil-Mouse/.
+A documentação do código encontra-se disponível no endereço: https://wellingtonespindula.github.io/Lil-Mouse/main_8c.html.
 Se essa não for suficiente, baixe o Relatório.pdf - disponível no diretório principal desse repositório -, onde encontrará mais informações a respeito da documentação do software.
