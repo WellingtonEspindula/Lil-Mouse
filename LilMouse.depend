@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1541642391 source:c:\users\wellington\desktop\lilmouse\estruturas.c
+
+1541641116 source:c:\users\wellington\desktop\lilmouse\gato.c
+
+1542851779 source:c:\users\wellington\desktop\lilmouse\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+	<conio2.h>
+	<windows.h>
+
+1541641820 source:c:\users\wellington\desktop\lilmouse\mapa.c
+	<stdio.h>
+	<estruturas.c>
+
+1541641220 source:c:\users\wellington\desktop\lilmouse\rato.c
+

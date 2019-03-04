@@ -1,0 +1,29 @@
+MELHORIAS:
+
+* contagem da pontuacao 			- TALKEI
+--> criar metodo de contagem de queijos
+--> remover pontuacao caso usuario perca a vida 
+
+* níveis					- TALKEI
+
+* carregar e salvar jogo			- TALKEI
+
+* menu principal				- TALKEI
+
+* modo cachorro					- TALKEI
+
+*mudar pasta mapas				- TALKEI
+
+*CENTRALIZAR MENU				- TALKEI
+
+*CENTRALIZAR BAGS
+
+* TELAS PERDER OU GANHAR
+
+FEATURES:
+* efeitos sonoros
+* database pontuacao
+
+BUGS:
+* ao terminar o programa
+* mover parede em cima de gato e de rato
